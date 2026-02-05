@@ -53,9 +53,7 @@ jobs:
       # Ele lê Rust, TypeScript, HTML, CSS e Markdown automaticamente.
       - name: 🔍 Rodar Linter de Ortografia
         uses: crate-ci/typos@master
-        with:
-          # files: . (Opcional, por padrão ele já lê tudo)
-          # Se quiser ignorar arquivos específicos, criamos um arquivo de config depois,
-          # mas para esta atividade, o padrão funciona bem.
+      
 
-          ignore_hidden: false
+        
+
