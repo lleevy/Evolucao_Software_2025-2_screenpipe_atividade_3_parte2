@@ -1,0 +1,1 @@
+# Evolucao_Software_2025-2_screenpipe_atividade_3_parte2
