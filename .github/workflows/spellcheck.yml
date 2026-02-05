@@ -1,0 +1,21 @@
+name: Spellcheck (Fast Feedback)
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  typos:
+    name: Verificação Ortográfica
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout do código
+        uses: actions/checkout@v4
+
+      - name: 🔍 Rodar Linter de Ortografia
+        uses: crate-ci/typos@master
+        with:
+          ignore_hidden: false
