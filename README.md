@@ -59,6 +59,6 @@ Repositório GitHub: Contendo os arquivos de workflow ajustados, documentação 
 
 Tutorial PDF: Documento com evidências de execução (“Antes x Depois”) e reflexão sobre o impacto na coragem em refatorar.
 
-Vídeo: Demonstração da execução do pipeline otimizado no ambiente da equipe.
+Vídeo: https://drive.google.com/file/d/1v0NUwvDOZJmx4ZGKJJZ2getvHdoj3sI-/view?usp=sharing
 
 Equipe: Antônio Camilo, Caio Rosberg, Davi Andrade, Gabriel Argôlo, Katyane dos Santos, Levy dos Santos, Victor Matos e Virna Oliveira. Disciplina: Evolução de Software 2025-2
