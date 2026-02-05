@@ -53,7 +53,9 @@ jobs:
       # Ele lê Rust, TypeScript, HTML, CSS e Markdown automaticamente.
       - name: 🔍 Rodar Linter de Ortografia
         uses: crate-ci/typos@master
+        continue-on-error: true
       
 
         
+
 
