@@ -57,4 +57,5 @@ jobs:
           # files: . (Opcional, por padrão ele já lê tudo)
           # Se quiser ignorar arquivos específicos, criamos um arquivo de config depois,
           # mas para esta atividade, o padrão funciona bem.
+
           ignore_hidden: false
