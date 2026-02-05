@@ -1,2 +1,8 @@
-[files]
-extend-exclude = ["*.md"]
+[default.extend-words]
+erro = "erro"
+Erros = "Erros"
+comando = "comando"
+Comando = "Comando"
+importante = "importante"
+Eles = "Eles"
+leves = "leves"
